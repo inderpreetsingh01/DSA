@@ -7,8 +7,6 @@
 ### Q5 leftmost repeating character
 ### Q6 leftmost non repeating character
 ### Q7 reverse order of words in string using O(1) aux space *
-### Q8 
-
 
 
 ## Pattern Matching algorithm 
